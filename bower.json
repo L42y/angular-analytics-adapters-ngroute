@@ -1,0 +1,27 @@
+{
+  "name": "angular-analytics-adapters-ngroute",
+  "main": "angular-analytics-adapters-ngroute.js",
+  "version": "0.1.0",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "description": "ngRoute adapter for angular-analytics",
+  "keywords": [
+    "angular",
+    "analytics",
+    "ngroute"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/L42y/angular-analytics-adapters-ngroute",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "*",
+    "angular-analytics": "L42y/angular-analytics#~0.1.0"
+  }
+}
